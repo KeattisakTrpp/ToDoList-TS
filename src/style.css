@@ -1,0 +1,28 @@
+.complete {
+    text-decoration: line-through;
+}
+
+body {
+    background-color: #f5db80;
+    color: black;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    font-family: "Poppins", sans-serif;
+    min-height: 100vh;
+}
+
+
+button {
+    margin-left: 15px;
+}
+
+li {
+    margin-top: 10px;
+}
+
+ul, form input, form button {
+    font-size: larger;
+}
+
+
